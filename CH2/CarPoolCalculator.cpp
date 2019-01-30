@@ -1,5 +1,4 @@
-// ex02_31.cpp
-// Exercises from Chapter 2 "How to program C++ 8th edition"
+// Exercises from Chapter 2 "How to program C++ 9th edition"
 
 // Self-review exercises from Chapter 2 "How to program C++ 9th edition"
 
