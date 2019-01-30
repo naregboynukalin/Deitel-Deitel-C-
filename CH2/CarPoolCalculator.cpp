@@ -1,7 +1,7 @@
 // ex02_31.cpp
 // Exercises from Chapter 2 "How to program C++ 8th edition"
 
-// Self-review exercises from Chapter 2 "How to program C++ 8th edition"
+// Self-review exercises from Chapter 2 "How to program C++ 9th edition"
 
 // Create an application that calculates your daily driving cost, so that you can 
 // estimate how much money could be saved by car pooling, which also has other
