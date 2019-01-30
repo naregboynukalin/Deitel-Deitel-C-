@@ -1,4 +1,3 @@
-<script src="https://gist.github.com/naregboynukalin/81d7df3a016c9d1a3f88c22884259deb.js"></script>
 // Exercises from Chapter 2 "How to program C++ 8th edition"
 
 // Self-review exercises from Chapter 2 "How to program C++ 8th edition"
